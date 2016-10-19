@@ -1,0 +1,2 @@
+# jambo-app
+Learning rails
